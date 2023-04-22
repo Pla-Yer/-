@@ -1,0 +1,27 @@
+.main-header{
+  /* position: relative; */
+  min-width: 1280px;
+  /* height: 56px; */
+  width: 100%;
+  height: 100%;
+  background-color: #F0F2F5;
+}
+
+.logo {
+  /* position: absolute; */
+  /* float: left;
+  margin-left: 40px;
+  margin-right: 40px; */
+
+  margin: 0 auto;
+
+  text-align: center;
+
+  line-height: 6vh;
+
+  /* height: 31px; */
+  color: gray;
+  font-weight: bold;
+  font-size: 25px; 
+}
+

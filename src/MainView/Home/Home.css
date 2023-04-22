@@ -1,0 +1,23 @@
+.project-layout{
+    /* 1280px */
+    width: 100%; 
+    margin: 0px auto;
+    height: 86.5vh;
+    text-align: center;
+    /* border: 1px solid gray; */
+    background-color: white;
+}
+
+.project-left{
+   float: left;
+   width: 15vw;
+   height: 100%;
+   /* background-color: antiquewhite; */
+}
+
+.project-right{
+    float: left;
+    width: 84vw;
+   height: 100%;
+   background-color: #fff;
+}
